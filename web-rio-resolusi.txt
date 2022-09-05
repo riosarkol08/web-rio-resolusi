@@ -1,6 +1,6 @@
 WR RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan WEB
 - Membuat jadwal keseharian
 - Bercita-cita membuat home page PMKRI
 - Membuat WEB untuk ujian skripsi
+- Membuat WEB CV
